@@ -37,12 +37,14 @@ console.log('Decoded:', decoded);
 Encoded: [ ...array of token IDs... ]
 Decoded: Hey Hitesh Sir, Hey piyush sir I am excited about this Cohort!
 ```
+
 ├── package.json
 ├── pnpm-lock.yaml
 ├── readme.md
 └── src/
     ├── index.js
     └── tokenizer.js
+    
 ```
 
 ## Getting Started
