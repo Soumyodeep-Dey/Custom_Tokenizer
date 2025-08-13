@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Dependency directories
+pnpm-lock.yaml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+/dist/
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
+
+# Misc
+*.tmp
+*.swp
